@@ -54,7 +54,7 @@ const CheckOut = () => {
                     Apply
                   </button>
                 </div>
-                <div className="flex justify-between px-3">
+                <div className="flex justify-between px-3 ">
                   <p>Flat ₹50 OFF</p>
                   <p className="text-gray-500 text-sm">
                     Expire On: <span>10-12-2023</span>
